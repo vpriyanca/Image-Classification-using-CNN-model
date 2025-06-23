@@ -46,11 +46,7 @@ This project followed a structured machine learning pipeline for building and ev
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 
 **Libraries Used:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-FF6F00?logo=tensorflow)  
-![Keras](https://img.shields.io/badge/Keras-2.x-D00000?logo=keras)  
-![NumPy](https://img.shields.io/badge/NumPy-1.20+-013243?logo=numpy)  
-![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-5C3EE8?logo=opencv)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-F7931E?logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-FF6F00?logo=tensorflow)  ![Keras](https://img.shields.io/badge/Keras-2.x-D00000?logo=keras)  ![NumPy](https://img.shields.io/badge/NumPy-1.20+-013243?logo=numpy)  ![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-5C3EE8?logo=opencv)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-F7931E?logo=scikit-learn)
 
 **Development Tool:**  
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Enabled-F37626?logo=jupyter)
